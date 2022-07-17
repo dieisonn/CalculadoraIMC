@@ -1,0 +1,79 @@
+/*Reset padrão*/
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+/*Formatação*/
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+    background: url(/images/undraw_healthy_lifestyle_re_ifwg.svg), no-repeat #8679fa;
+    background-repeat: no-repeat;
+    background-position: left 15% bottom 150%;
+}
+
+/*Estilização do container*/
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    background: #00000080;
+    padding: 1em;
+    border-radius: 10px;
+    backdrop-filter: blur(8px);
+}
+
+button{
+    line-height: 25px;
+    width: 25%;
+    font-weight: 800;
+    background-color: #4f45a7;
+    border-radius: 6px;
+    border: none;
+    color: #ffffff;
+    margin: 1em;
+    cursor: pointer;
+}
+
+button:hover{
+    background: #4e3aff;
+}
+
+/* Configurando displays*/
+
+.final-step, .second-step{
+    display: none;
+}
+
+.dados{
+    padding: 0.5em;
+    margin: 0.5em;
+    display: block;
+}
+
+input{
+    padding: 0.5em;
+    outline: none;
+    border: none;
+    border-radius: 6px;
+}
+
+h3{
+    padding: 0.7em;
+}
+
+#resultado{
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.botão{
+    width: 50%;
+}
