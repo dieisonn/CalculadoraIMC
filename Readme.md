@@ -28,13 +28,13 @@ Banco de artes gratuitas (verificar termos de uso):
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Cor Background       | ![#8679fa](https://via.placeholder.com/10/8679fa?text=+)|
-| Cor Fundo-Divs       | ![#00000080](https://via.placeholder.com/10/00000080?text=+)|
-| Cor Resultado-Magreza       | ![#ff0000](https://via.placeholder.com/10/ff0000?text=+)|
-| Cor Resultado-Normal       | ![#4ab900](https://via.placeholder.com/10/4ab900?text=+)|
-| Cor Resultado-Sobrepeso       | ![#ffd900](https://via.placeholder.com/10/ffd900?text=+)|
-| Cor Resultado-Obesidade 1       | ![#ff7b00](https://via.placeholder.com/10/ff7b00?text=+)|
-| Cor Resultado-Obesidade 2       | ![#ff0000](https://via.placeholder.com/10/ff0000?text=+)|
+| Cor Background       |#8679fa|
+| Cor Fundo-Divs       |#00000080|
+| Cor Resultado-Magreza       |#ff0000|
+| Cor Resultado-Normal       |#4ab900|
+| Cor Resultado-Sobrepeso       |#ffd900|
+| Cor Resultado-Obesidade 1       |#ff7b00|
+| Cor Resultado-Obesidade 2       |#ff0000|
 
 
 
